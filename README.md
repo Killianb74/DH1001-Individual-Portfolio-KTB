@@ -21,6 +21,7 @@ His impact on the digital world will never be forgotten, with the presence of Re
 <h4> SHOULD ALL ARCHIVES BE OPEN ACCESS? </h4> 
 
 <a title="Martin Anderson, Michael West, MIT &lt;http://opensource.org/licenses/mit-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Files_(software)_2021.png"><img width="128" alt="The 2021 version of the logo for Files, a modern file manager for Windows." src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Files_%28software%29_2021.png?20241228112026"></a>
+
 After reading through István Rev's article, I really like how he speaks out about how archives have become mre dynamic and politically charged and how society in today's world demand for more open digital access to archival material, and not just the basics of scholars and researchers. Rev discusses how according to the Open Access movement, while it is a crucial element to the uncompromising stand for open archives, the limitations are scarce according to peoples human rights and transparency, as it also tackles other challenging laws such as privacy, national security, etc.
 
 Thirdly, what I very much admired from this article also is Rev's several exampleshe uses to back up his own illustration about the tension that grows within the subject open access. For example, he refers to a Rwandan woman that asks about wanting her name removed from an online deportation archive, which raises questions about the legal vs moral responsibilities that are imposed on archive holders and who is given the right who's name is confidential or for display.
@@ -41,6 +42,7 @@ Many platforms in today's world must become more transparent to their online com
 <a title="TED inc.
 
 Vectorization:  Totie, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:TED_three_letter_logo.svg"><img width="256" alt="TED three letter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TED_three_letter_logo.svg/256px-TED_three_letter_logo.svg.png?20160620081926"></a>
+
 After listening to Joy Bouolamwini's TED talk on Bias in algorithmetic software, we are able to understand that while Artificial Intelligence is becoming more manageable and self aware. Within this talk,  Joy specifically highlights the discriminatory aspect of AI and facial recognition. 
 
 This clear example of unreliable, discriminatory and misinterpretted analylisation within the 'generic software' seems to set a bad image on how AI is being implented into computer software and the depth of how security-based technology is becoming very strict and unaware of the self-inflicting negatives it is imposing on itself.
