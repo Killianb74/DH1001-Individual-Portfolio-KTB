@@ -42,7 +42,7 @@ In relation to principles 5 and 8, they both possess very reasonable measures an
 Many platforms in today's world must become more transparent to their online communities so that they can be trusted with what relevant information is necessary for the platform's own policies and principles, that they coincide with each other and that overall every user has access to all forms of media, both personal and trending that could be useful for their own basic human knowledge and self-awareness of what is happening both in the real world and the digital world.
 
 
- width="512" alt="TED wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TED_wordmark.svg/512px-TED_wordmark.svg.png?20160527190120"></a>
+<a title="Juliana Rotich on Flickr, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:TED_stage_logo_from_Flickr_(cropped).jpg"><img width="512" alt="TED stage logo from Flickr (cropped)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TED_stage_logo_from_Flickr_%28cropped%29.jpg/512px-TED_stage_logo_from_Flickr_%28cropped%29.jpg?20160526164134"></a>
 <h5> JOY BOULOAMWINI'S TED TALK</h5> 
 
 After listening to Joy Bouolamwini's TED talk on Bias in algorithmetic software, we are able to understand that while Artificial Intelligence is becoming more manageable and self aware. Within this talk,  Joy specifically highlights the discriminatory aspect of AI and facial recognition. 
